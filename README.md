@@ -1,2 +1,2 @@
 # wdd130-Hales
-Website for wdd130 course
+Website for wdd130 course client project Hales
